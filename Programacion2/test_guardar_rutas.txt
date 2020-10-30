@@ -1,0 +1,578 @@
+LPA, MAD, 334, 186, American Airlines
+ACE, FUE, 131, 35, Air Berlin
+AGP, PMI, 200, 88, Air Berlin
+ALC, PMI, 193, 63, Air Berlin
+BIO, PMI, 156, 80, Air Berlin
+IBZ, PMI, 124, 42, Air Berlin
+LEI, PMI, 234, 89, Air Berlin
+MAH, PMI, 131, 41, Air Berlin
+PMI, AGP, 210, 75, Air Berlin
+PMI, ALC, 207, 62, Air Berlin
+PMI, BIO, 149, 88, Air Berlin
+PMI, IBZ, 206, 44, Air Berlin
+PMI, LEI, 218, 70, Air Berlin
+PMI, MAH, 212, 43, Air Berlin
+PMI, SVQ, 169, 86, Air Berlin
+PMI, VLC, 184, 53, Air Berlin
+PMI, XRY, 202, 112, Air Berlin
+SVQ, PMI, 214, 79, Air Berlin
+VLC, PMI, 187, 63, Air Berlin
+XRY, PMI, 151, 103, Air Berlin
+LPA, TFN, 154, 37, Royal Air Maroc
+MAD, VGO, 141, 63, Finnair
+MAD, VLC, 239, 52, Finnair
+PNA, MAD, 231, 63, Finnair
+VGO, MAD, 208, 68, Finnair
+VLC, MAD, 226, 59, Finnair
+BCN, PMI, 185, 45, Alitalia
+BCN, TFN, 495, 199, Alitalia
+IBZ, MAD, 199, 70, Alitalia
+LCG, MAD, 231, 67, Alitalia
+LPA, MAD, 544, 140, Alitalia
+MAD, FUE, 302, 154, Alitalia
+MAD, IBZ, 122, 71, Alitalia
+MAD, LCG, 135, 71, Alitalia
+MAD, LPA, 428, 244, Alitalia
+MAD, PMI, 206, 87, Alitalia
+MAD, TFN, 482, 207, Alitalia
+MAD, VGO, 210, 63, Alitalia
+PMI, BCN, 195, 51, Alitalia
+PMI, MAD, 188, 82, Alitalia
+PMI, VLC, 145, 62, Alitalia
+TFN, MAD, 494, 207, Alitalia
+VGO, MAD, 121, 84, Alitalia
+VLC, PMI, 171, 53, Alitalia
+ACE, FUE, 78, 35, Condor Flugdienst
+ACE, BCN, 489, 166, Ryanair
+ACE, MAD, 366, 136, Ryanair
+ACE, SCQ, 401, 181, Ryanair
+ACE, SDR, 442, 172, Ryanair
+ACE, SVQ, 277, 123, Ryanair
+ACE, ZAZ, 321, 164, Ryanair
+AGP, BCN, 159, 95, Ryanair
+AGP, IBZ, 106, 85, Ryanair
+AGP, PMI, 215, 95, Ryanair
+AGP, SCQ, 226, 78, Ryanair
+AGP, SDR, 144, 94, Ryanair
+ALC, SCQ, 239, 82, Ryanair
+BCN, ACE, 315, 188, Ryanair
+BCN, AGP, 183, 115, Ryanair
+BCN, FUE, 402, 176, Ryanair
+BCN, IBZ, 181, 47, Ryanair
+BCN, LPA, 381, 219, Ryanair
+BCN, MAH, 189, 52, Ryanair
+BCN, PMI, 162, 47, Ryanair
+BCN, SCQ, 248, 116, Ryanair
+BCN, SDR, 154, 71, Ryanair
+BCN, SVQ, 128, 99, Ryanair
+BCN, TFN, 409, 169, Ryanair
+BCN, TFS, 568, 294, Ryanair
+BCN, VLL, 233, 80, Ryanair
+BCN, XRY, 232, 114, Ryanair
+FUE, BCN, 387, 185, Ryanair
+FUE, MAD, 382, 178, Ryanair
+GRO, IBZ, 235, 66, Ryanair
+GRO, PMI, 137, 53, Ryanair
+IBZ, AGP, 228, 80, Ryanair
+IBZ, BCN, 220, 52, Ryanair
+IBZ, GRO, 128, 58, Ryanair
+IBZ, MAD, 240, 64, Ryanair
+IBZ, VLC, 211, 43, Ryanair
+LPA, BCN, 475, 243, Ryanair
+LPA, MAD, 338, 167, Ryanair
+LPA, SCQ, 429, 199, Ryanair
+LPA, SDR, 415, 214, Ryanair
+LPA, SVQ, 445, 191, Ryanair
+LPA, VLC, 538, 230, Ryanair
+MAD, ACE, 345, 155, Ryanair
+MAD, FUE, 331, 222, Ryanair
+MAD, IBZ, 124, 69, Ryanair
+MAD, LPA, 362, 209, Ryanair
+MAD, PMI, 235, 87, Ryanair
+MAD, SCQ, 173, 81, Ryanair
+MAD, TFN, 433, 165, Ryanair
+MAD, TFS, 505, 199, Ryanair
+MAH, BCN, 211, 57, Ryanair
+MAH, VLC, 211, 60, Ryanair
+PMI, AGP, 262, 105, Ryanair
+PMI, BCN, 147, 42, Ryanair
+PMI, GRO, 91, 56, Ryanair
+PMI, MAD, 148, 76, Ryanair
+PMI, REU, 85, 46, Ryanair
+PMI, SCQ, 384, 132, Ryanair
+PMI, SDR, 180, 93, Ryanair
+PMI, SVQ, 143, 116, Ryanair
+PMI, VLC, 200, 47, Ryanair
+REU, PMI, 49, 55, Ryanair
+SCQ, ACE, 265, 174, Ryanair
+SCQ, AGP, 233, 85, Ryanair
+SCQ, ALC, 149, 82, Ryanair
+SCQ, BCN, 232, 127, Ryanair
+SCQ, LPA, 375, 179, Ryanair
+SCQ, MAD, 243, 69, Ryanair
+SCQ, PMI, 274, 99, Ryanair
+SCQ, SVQ, 180, 82, Ryanair
+SCQ, TFS, 429, 184, Ryanair
+SCQ, VLC, 263, 92, Ryanair
+SDR, ACE, 351, 183, Ryanair
+SDR, AGP, 284, 96, Ryanair
+SDR, BCN, 129, 64, Ryanair
+SDR, LPA, 502, 232, Ryanair
+SDR, PMI, 214, 87, Ryanair
+SDR, SVQ, 206, 82, Ryanair
+SDR, TFS, 508, 275, Ryanair
+SDR, VLC, 246, 71, Ryanair
+SVQ, ACE, 348, 105, Ryanair
+SVQ, BCN, 242, 84, Ryanair
+SVQ, LPA, 418, 124, Ryanair
+SVQ, PMI, 288, 111, Ryanair
+SVQ, SCQ, 134, 75, Ryanair
+SVQ, SDR, 188, 108, Ryanair
+SVQ, TFS, 371, 135, Ryanair
+TFN, BCN, 494, 173, Ryanair
+TFN, MAD, 454, 148, Ryanair
+TFS, BCN, 495, 203, Ryanair
+TFS, MAD, 430, 225, Ryanair
+TFS, SCQ, 439, 179, Ryanair
+TFS, SDR, 460, 210, Ryanair
+TFS, SVQ, 411, 129, Ryanair
+TFS, VLC, 366, 178, Ryanair
+VLC, IBZ, 110, 47, Ryanair
+VLC, LPA, 416, 178, Ryanair
+VLC, MAH, 179, 69, Ryanair
+VLC, PMI, 164, 63, Ryanair
+VLC, SCQ, 236, 94, Ryanair
+VLC, SDR, 256, 81, Ryanair
+VLC, TFS, 380, 161, Ryanair
+VLL, BCN, 176, 89, Ryanair
+XRY, BCN, 217, 122, Ryanair
+ZAZ, ACE, 499, 153, Ryanair
+ACE, FUE, 99, 36, Niki
+ACE, FUE, 33, 35, Harmony Airways
+FUE, TFS, 99, 48, Harmony Airways
+IBZ, MAH, 188, 47, Harmony Airways
+MAH, GRO, 216, 46, Harmony Airways
+FUE, ACE, 186, 33, Transavia Holland
+LPA, ACE, 198, 46, Transavia Holland
+SVQ, LEI, 132, 68, Transavia Holland
+TFS, LPA, 74, 38, Transavia Holland
+ACE, BCN, 529, 178, Iberia Airlines
+ACE, BIO, 492, 259, Iberia Airlines
+ACE, MAD, 454, 147, Iberia Airlines
+AGP, BCN, 273, 114, Iberia Airlines
+AGP, BIO, 274, 105, Iberia Airlines
+AGP, LPA, 241, 149, Iberia Airlines
+AGP, MAD, 116, 56, Iberia Airlines
+AGP, MLN, 119, 47, Iberia Airlines
+AGP, OVD, 148, 84, Iberia Airlines
+AGP, PMI, 278, 115, Iberia Airlines
+AGP, SCQ, 284, 91, Iberia Airlines
+AGP, TFN, 302, 143, Iberia Airlines
+AGP, VLC, 103, 66, Iberia Airlines
+ALC, BCN, 248, 55, Iberia Airlines
+ALC, BIO, 251, 79, Iberia Airlines
+ALC, IBZ, 184, 42, Iberia Airlines
+ALC, LPA, 293, 213, Iberia Airlines
+ALC, MAD, 113, 57, Iberia Airlines
+ALC, PMI, 219, 53, Iberia Airlines
+BCN, ACE, 426, 219, Iberia Airlines
+BCN, AGP, 141, 106, Iberia Airlines
+BCN, ALC, 252, 62, Iberia Airlines
+BCN, BIO, 126, 61, Iberia Airlines
+BCN, EAS, 212, 65, Iberia Airlines
+BCN, FUE, 569, 251, Iberia Airlines
+BCN, GRX, 183, 98, Iberia Airlines
+BCN, IBZ, 141, 58, Iberia Airlines
+BCN, LCG, 262, 125, Iberia Airlines
+BCN, LEI, 217, 77, Iberia Airlines
+BCN, LEN, 133, 72, Iberia Airlines
+BCN, LPA, 484, 201, Iberia Airlines
+BCN, MAD, 150, 66, Iberia Airlines
+BCN, MAH, 98, 54, Iberia Airlines
+BCN, OVD, 243, 101, Iberia Airlines
+BCN, PMI, 83, 49, Iberia Airlines
+BCN, RGS, 253, 86, Iberia Airlines
+BCN, SCQ, 225, 106, Iberia Airlines
+BCN, SDR, 255, 88, Iberia Airlines
+BCN, SLM, 181, 81, Iberia Airlines
+BCN, SVQ, 181, 117, Iberia Airlines
+BCN, TFN, 627, 241, Iberia Airlines
+BCN, TFS, 618, 259, Iberia Airlines
+BCN, VGO, 300, 87, Iberia Airlines
+BCN, VLL, 237, 68, Iberia Airlines
+BCN, XRY, 252, 109, Iberia Airlines
+BIO, ACE, 469, 245, Iberia Airlines
+BIO, AGP, 172, 86, Iberia Airlines
+BIO, ALC, 202, 71, Iberia Airlines
+BIO, BCN, 105, 79, Iberia Airlines
+BIO, FUE, 410, 246, Iberia Airlines
+BIO, IBZ, 244, 68, Iberia Airlines
+BIO, LCG, 108, 67, Iberia Airlines
+BIO, LPA, 457, 185, Iberia Airlines
+BIO, MAD, 66, 58, Iberia Airlines
+BIO, PMI, 159, 71, Iberia Airlines
+BIO, SCQ, 149, 84, Iberia Airlines
+BIO, SVQ, 163, 82, Iberia Airlines
+BIO, TFN, 494, 163, Iberia Airlines
+BIO, VGO, 268, 62, Iberia Airlines
+BIO, VLC, 169, 85, Iberia Airlines
+EAS, BCN, 203, 60, Iberia Airlines
+EAS, MAD, 106, 56, Iberia Airlines
+FUE, BCN, 432, 199, Iberia Airlines
+FUE, BIO, 359, 225, Iberia Airlines
+FUE, MAD, 254, 188, Iberia Airlines
+GRX, BCN, 222, 74, Iberia Airlines
+GRX, MAD, 73, 62, Iberia Airlines
+GRX, MLN, 125, 46, Iberia Airlines
+GRX, PMI, 271, 91, Iberia Airlines
+IBZ, ALC, 106, 41, Iberia Airlines
+IBZ, BCN, 54, 48, Iberia Airlines
+IBZ, BIO, 127, 72, Iberia Airlines
+IBZ, MAD, 239, 80, Iberia Airlines
+IBZ, PMI, 148, 42, Iberia Airlines
+IBZ, VLC, 129, 42, Iberia Airlines
+ILD, PMI, 218, 52, Iberia Airlines
+LCG, BCN, 362, 91, Iberia Airlines
+LCG, BIO, 190, 70, Iberia Airlines
+LCG, MAD, 263, 65, Iberia Airlines
+LCG, SVQ, 245, 83, Iberia Airlines
+LEI, BCN, 225, 76, Iberia Airlines
+LEI, MAD, 94, 67, Iberia Airlines
+LEI, MLN, 80, 49, Iberia Airlines
+LEN, BCN, 171, 95, Iberia Airlines
+LPA, AGP, 255, 195, Iberia Airlines
+LPA, ALC, 328, 238, Iberia Airlines
+LPA, BCN, 405, 193, Iberia Airlines
+LPA, BIO, 476, 231, Iberia Airlines
+LPA, MAD, 353, 144, Iberia Airlines
+LPA, SCQ, 413, 246, Iberia Airlines
+LPA, SVQ, 313, 168, Iberia Airlines
+LPA, VLC, 451, 253, Iberia Airlines
+MAD, ACE, 251, 161, Iberia Airlines
+MAD, AGP, 241, 63, Iberia Airlines
+MAD, ALC, 236, 65, Iberia Airlines
+MAD, BCN, 194, 63, Iberia Airlines
+MAD, BIO, 122, 51, Iberia Airlines
+MAD, EAS, 227, 51, Iberia Airlines
+MAD, FUE, 461, 148, Iberia Airlines
+MAD, GRX, 237, 72, Iberia Airlines
+MAD, IBZ, 175, 81, Iberia Airlines
+MAD, LCG, 197, 82, Iberia Airlines
+MAD, LEI, 170, 71, Iberia Airlines
+MAD, LPA, 349, 147, Iberia Airlines
+MAD, MAH, 284, 100, Iberia Airlines
+MAD, MJV, 175, 71, Iberia Airlines
+MAD, MLN, 192, 92, Iberia Airlines
+MAD, OVD, 245, 73, Iberia Airlines
+MAD, PMI, 209, 82, Iberia Airlines
+MAD, PNA, 199, 54, Iberia Airlines
+MAD, RJL, 148, 50, Iberia Airlines
+MAD, SCQ, 141, 69, Iberia Airlines
+MAD, SDR, 194, 68, Iberia Airlines
+MAD, SPC, 405, 146, Iberia Airlines
+MAD, SVQ, 216, 58, Iberia Airlines
+MAD, TFN, 251, 247, Iberia Airlines
+MAD, TFS, 367, 160, Iberia Airlines
+MAD, VGO, 94, 67, Iberia Airlines
+MAD, VLC, 129, 51, Iberia Airlines
+MAD, XRY, 130, 67, Iberia Airlines
+MAH, BCN, 164, 46, Iberia Airlines
+MAH, MAD, 219, 109, Iberia Airlines
+MAH, PMI, 115, 42, Iberia Airlines
+MAH, VLC, 96, 56, Iberia Airlines
+MJV, MAD, 129, 70, Iberia Airlines
+MLN, AGP, 108, 44, Iberia Airlines
+MLN, GRX, 116, 49, Iberia Airlines
+MLN, LEI, 63, 48, Iberia Airlines
+MLN, MAD, 104, 94, Iberia Airlines
+OVD, AGP, 279, 88, Iberia Airlines
+OVD, BCN, 168, 97, Iberia Airlines
+OVD, MAD, 196, 70, Iberia Airlines
+OVD, PMI, 326, 122, Iberia Airlines
+OVD, SVQ, 210, 84, Iberia Airlines
+OVD, VLC, 169, 71, Iberia Airlines
+PMI, AGP, 214, 117, Iberia Airlines
+PMI, ALC, 98, 54, Iberia Airlines
+PMI, BCN, 98, 44, Iberia Airlines
+PMI, BIO, 252, 89, Iberia Airlines
+PMI, GRX, 141, 80, Iberia Airlines
+PMI, IBZ, 76, 44, Iberia Airlines
+PMI, ILD, 152, 53, Iberia Airlines
+PMI, MAD, 226, 64, Iberia Airlines
+PMI, MAH, 56, 45, Iberia Airlines
+PMI, OVD, 222, 108, Iberia Airlines
+PMI, SCQ, 340, 122, Iberia Airlines
+PMI, SVQ, 186, 104, Iberia Airlines
+PMI, VLC, 70, 48, Iberia Airlines
+PNA, MAD, 96, 62, Iberia Airlines
+RGS, BCN, 239, 89, Iberia Airlines
+RJL, MAD, 202, 46, Iberia Airlines
+SCQ, AGP, 296, 100, Iberia Airlines
+SCQ, BCN, 278, 112, Iberia Airlines
+SCQ, BIO, 231, 77, Iberia Airlines
+SCQ, LPA, 508, 221, Iberia Airlines
+SCQ, MAD, 178, 72, Iberia Airlines
+SCQ, PMI, 344, 111, Iberia Airlines
+SCQ, TFN, 479, 232, Iberia Airlines
+SDR, BCN, 222, 81, Iberia Airlines
+SDR, MAD, 86, 60, Iberia Airlines
+SLM, BCN, 147, 69, Iberia Airlines
+SPC, MAD, 525, 246, Iberia Airlines
+SVQ, BCN, 201, 90, Iberia Airlines
+SVQ, BIO, 212, 83, Iberia Airlines
+SVQ, LCG, 142, 113, Iberia Airlines
+SVQ, LPA, 347, 118, Iberia Airlines
+SVQ, MAD, 67, 60, Iberia Airlines
+SVQ, OVD, 302, 112, Iberia Airlines
+SVQ, PMI, 165, 87, Iberia Airlines
+SVQ, TFN, 394, 164, Iberia Airlines
+SVQ, VLC, 270, 79, Iberia Airlines
+TFN, AGP, 326, 134, Iberia Airlines
+TFN, BCN, 492, 220, Iberia Airlines
+TFN, BIO, 449, 180, Iberia Airlines
+TFN, MAD, 315, 143, Iberia Airlines
+TFN, SCQ, 487, 160, Iberia Airlines
+TFN, SVQ, 308, 191, Iberia Airlines
+TFN, VLC, 405, 180, Iberia Airlines
+TFS, BCN, 590, 199, Iberia Airlines
+TFS, MAD, 432, 229, Iberia Airlines
+TFS, VGO, 525, 171, Iberia Airlines
+VGO, BCN, 338, 114, Iberia Airlines
+VGO, BIO, 249, 64, Iberia Airlines
+VGO, MAD, 161, 69, Iberia Airlines
+VGO, TFS, 424, 155, Iberia Airlines
+VLC, AGP, 243, 71, Iberia Airlines
+VLC, BIO, 111, 64, Iberia Airlines
+VLC, IBZ, 167, 46, Iberia Airlines
+VLC, LPA, 460, 230, Iberia Airlines
+VLC, MAD, 181, 47, Iberia Airlines
+VLC, MAH, 158, 74, Iberia Airlines
+VLC, OVD, 261, 88, Iberia Airlines
+VLC, PMI, 180, 54, Iberia Airlines
+VLC, SVQ, 234, 70, Iberia Airlines
+VLC, TFN, 412, 199, Iberia Airlines
+VLL, BCN, 161, 77, Iberia Airlines
+XRY, BCN, 231, 115, Iberia Airlines
+XRY, MAD, 159, 62, Iberia Airlines
+FUE, TFS, 191, 57, Meridiana
+ACE, FUE, 98, 34, Luxair
+XRY, AGP, 150, 42, Luxair
+ACE, LPA, 98, 46, Binter Canarias
+ACE, TFN, 60, 58, Binter Canarias
+FUE, LPA, 112, 49, Binter Canarias
+FUE, TFN, 112, 46, Binter Canarias
+GMZ, TFN, 142, 37, Binter Canarias
+LPA, ACE, 156, 46, Binter Canarias
+LPA, FUE, 82, 42, Binter Canarias
+LPA, SPC, 108, 58, Binter Canarias
+LPA, TFN, 82, 39, Binter Canarias
+LPA, TFS, 114, 44, Binter Canarias
+LPA, VDE, 203, 53, Binter Canarias
+SPC, LPA, 219, 54, Binter Canarias
+SPC, TFN, 145, 45, Binter Canarias
+TFN, ACE, 179, 54, Binter Canarias
+TFN, FUE, 150, 46, Binter Canarias
+TFN, GMZ, 93, 37, Binter Canarias
+TFN, LPA, 39, 39, Binter Canarias
+TFN, SPC, 213, 39, Binter Canarias
+TFN, VDE, 144, 46, Binter Canarias
+TFS, LPA, 96, 38, Binter Canarias
+TFS, VDE, 118, 45, Binter Canarias
+VDE, LPA, 214, 50, Binter Canarias
+VDE, TFN, 67, 44, Binter Canarias
+VDE, TFS, 203, 43, Binter Canarias
+BCN, PMI, 55, 42, Czech Airlines
+LPA, MAD, 367, 249, Czech Airlines
+MAD, LPA, 445, 178, Czech Airlines
+MAD, TFN, 376, 183, Czech Airlines
+PMI, BCN, 177, 47, Czech Airlines
+TFN, MAD, 290, 174, Czech Airlines
+ACE, LPA, 72, 48, Tropic Air
+FUE, LPA, 94, 40, Tropic Air
+LPA, ACE, 182, 44, Tropic Air
+LPA, FUE, 103, 44, Tropic Air
+LPA, TFN, 47, 38, Tropic Air
+SPC, TFN, 57, 39, Tropic Air
+TFN, LPA, 165, 40, Tropic Air
+TFN, SPC, 72, 45, Tropic Air
+BIO, SCQ, 145, 78, Turkish Airlines
+SCQ, BIO, 160, 73, Turkish Airlines
+ACE, BIO, 500, 167, Air Europa
+ACE, MAD, 346, 149, Air Europa
+ACE, OVD, 254, 175, Air Europa
+ACE, SCQ, 468, 156, Air Europa
+AGP, IBZ, 218, 88, Air Europa
+AGP, MAD, 261, 57, Air Europa
+AGP, PMI, 167, 76, Air Europa
+AGP, TFN, 299, 189, Air Europa
+ALC, TFS, 520, 197, Air Europa
+BCN, BJZ, 214, 84, Air Europa
+BCN, MAD, 149, 71, Air Europa
+BCN, PMI, 104, 43, Air Europa
+BCN, TFN, 637, 274, Air Europa
+BIO, ACE, 438, 154, Air Europa
+BIO, IBZ, 226, 96, Air Europa
+BIO, LPA, 595, 182, Air Europa
+BIO, MAD, 147, 49, Air Europa
+BIO, PMI, 144, 86, Air Europa
+BIO, TFN, 348, 162, Air Europa
+BJZ, BCN, 263, 88, Air Europa
+BJZ, MAD, 191, 51, Air Europa
+FUE, MAD, 333, 176, Air Europa
+GRX, PMI, 289, 97, Air Europa
+IBZ, MAD, 143, 65, Air Europa
+LCG, MAD, 174, 73, Air Europa
+LEI, MAD, 189, 62, Air Europa
+LEI, SVQ, 217, 51, Air Europa
+LPA, BIO, 427, 169, Air Europa
+LPA, MAD, 419, 249, Air Europa
+LPA, SCQ, 359, 184, Air Europa
+LPA, SVQ, 312, 157, Air Europa
+MAD, ACE, 409, 164, Air Europa
+MAD, AGP, 183, 70, Air Europa
+MAD, BCN, 111, 83, Air Europa
+MAD, BIO, 171, 63, Air Europa
+MAD, BJZ, 127, 66, Air Europa
+MAD, FUE, 462, 173, Air Europa
+MAD, IBZ, 121, 62, Air Europa
+MAD, LCG, 150, 73, Air Europa
+MAD, LEI, 163, 81, Air Europa
+MAD, LPA, 486, 212, Air Europa
+MAD, OVD, 201, 78, Air Europa
+MAD, PMI, 133, 71, Air Europa
+MAD, TFN, 404, 220, Air Europa
+MAD, VGO, 191, 66, Air Europa
+MAD, VLC, 220, 47, Air Europa
+OVD, ACE, 386, 171, Air Europa
+OVD, MAD, 242, 69, Air Europa
+OVD, TFS, 486, 167, Air Europa
+PMI, BCN, 201, 48, Air Europa
+PMI, BIO, 216, 71, Air Europa
+PMI, GRX, 265, 105, Air Europa
+PMI, MAD, 206, 74, Air Europa
+PMI, VLC, 99, 62, Air Europa
+PMI, ZAZ, 198, 77, Air Europa
+SCQ, ACE, 274, 154, Air Europa
+SCQ, IBZ, 217, 130, Air Europa
+SCQ, LPA, 380, 165, Air Europa
+SCQ, PMI, 222, 111, Air Europa
+SCQ, TFS, 420, 229, Air Europa
+SVQ, LEI, 182, 51, Air Europa
+SVQ, LPA, 460, 180, Air Europa
+SVQ, PMI, 204, 101, Air Europa
+SVQ, TFN, 276, 133, Air Europa
+TFN, AGP, 320, 131, Air Europa
+TFN, BCN, 680, 178, Air Europa
+TFN, BIO, 442, 183, Air Europa
+TFN, MAD, 509, 150, Air Europa
+TFN, SVQ, 328, 144, Air Europa
+TFS, ALC, 374, 190, Air Europa
+TFS, OVD, 389, 161, Air Europa
+TFS, SCQ, 394, 189, Air Europa
+VGO, MAD, 118, 62, Air Europa
+VLC, MAD, 110, 52, Air Europa
+VLC, PMI, 88, 49, Air Europa
+VLL, PMI, 210, 74, Air Europa
+ZAZ, PMI, 123, 60, Air Europa
+OVD, PMI, 143, 123, Air Senegal International
+OVD, VLC, 262, 71, Air Senegal International
+PMI, OVD, 235, 84, Air Senegal International
+VLC, OVD, 282, 72, Air Senegal International
+ACE, BCN, 456, 219, Formosa Airlines
+ACE, BIO, 580, 164, Formosa Airlines
+AGP, BCN, 214, 79, Formosa Airlines
+AGP, BIO, 128, 83, Formosa Airlines
+AGP, LPA, 395, 132, Formosa Airlines
+AGP, OVD, 247, 97, Formosa Airlines
+AGP, PMI, 313, 94, Formosa Airlines
+AGP, SCQ, 289, 105, Formosa Airlines
+AGP, TFN, 450, 130, Formosa Airlines
+ALC, BCN, 193, 67, Formosa Airlines
+ALC, BIO, 126, 91, Formosa Airlines
+ALC, IBZ, 96, 48, Formosa Airlines
+ALC, PMI, 222, 50, Formosa Airlines
+BCN, ACE, 482, 209, Formosa Airlines
+BCN, AGP, 230, 124, Formosa Airlines
+BCN, ALC, 179, 66, Formosa Airlines
+BCN, BIO, 262, 59, Formosa Airlines
+BCN, EAS, 91, 55, Formosa Airlines
+BCN, FUE, 579, 247, Formosa Airlines
+BCN, GRX, 209, 102, Formosa Airlines
+BCN, IBZ, 169, 49, Formosa Airlines
+BCN, LCG, 187, 110, Formosa Airlines
+BCN, LEI, 227, 78, Formosa Airlines
+BCN, LPA, 484, 278, Formosa Airlines
+BCN, MAD, 236, 70, Formosa Airlines
+BCN, MAH, 144, 48, Formosa Airlines
+BCN, OVD, 259, 96, Formosa Airlines
+BCN, PMI, 50, 45, Formosa Airlines
+BCN, SCQ, 298, 99, Formosa Airlines
+BCN, SDR, 129, 93, Formosa Airlines
+BCN, SVQ, 204, 87, Formosa Airlines
+BCN, TFN, 515, 180, Formosa Airlines
+BCN, TFS, 417, 244, Formosa Airlines
+BCN, VGO, 213, 111, Formosa Airlines
+BCN, VLL, 196, 87, Formosa Airlines
+BCN, XRY, 156, 105, Formosa Airlines
+BIO, ACE, 427, 179, Formosa Airlines
+BIO, AGP, 185, 84, Formosa Airlines
+BIO, ALC, 201, 81, Formosa Airlines
+BIO, BCN, 148, 75, Formosa Airlines
+BIO, FUE, 431, 212, Formosa Airlines
+BIO, IBZ, 281, 74, Formosa Airlines
+BIO, LCG, 147, 75, Formosa Airlines
+BIO, LPA, 512, 176, Formosa Airlines
+BIO, PMI, 278, 86, Formosa Airlines
+BIO, SVQ, 114, 80, Formosa Airlines
+BIO, TFN, 532, 176, Formosa Airlines
+EAS, BCN, 243, 58, Formosa Airlines
+FUE, BCN, 420, 212, Formosa Airlines
+FUE, BIO, 428, 193, Formosa Airlines
+GRX, BCN, 153, 84, Formosa Airlines
+GRX, PMI, 270, 80, Formosa Airlines
+IBZ, ALC, 191, 46, Formosa Airlines
+IBZ, BCN, 141, 50, Formosa Airlines
+IBZ, BIO, 174, 102, Formosa Airlines
+IBZ, MAD, 180, 74, Formosa Airlines
+IBZ, VLC, 151, 41, Formosa Airlines
+LCG, BCN, 235, 97, Formosa Airlines
+LCG, BIO, 172, 72, Formosa Airlines
+LCG, SVQ, 214, 89, Formosa Airlines
+LEI, BCN, 141, 106, Formosa Airlines
+LPA, AGP, 334, 134, Formosa Airlines
+LPA, BCN, 397, 233, Formosa Airlines
+LPA, BIO, 323, 197, Formosa Airlines
+LPA, SVQ, 375, 125, Formosa Airlines
+MAD, BCN, 117, 74, Formosa Airlines
+MAD, IBZ, 208, 60, Formosa Airlines
+MAH, BCN, 165, 46, Formosa Airlines
+OVD, AGP, 284, 87, Formosa Airlines
+OVD, BCN, 152, 75, Formosa Airlines
+OVD, SVQ, 242, 88, Formosa Airlines
+PMI, AGP, 177, 78, Formosa Airlines
+PMI, ALC, 102, 51, Formosa Airlines
+PMI, BCN, 73, 44, Formosa Airlines
+PMI, BIO, 178, 85, Formosa Airlines
+PMI, GRX, 245, 96, Formosa Airlines
+PMI, SVQ, 200, 88, Formosa Airlines
+SCQ, AGP, 246, 93, Formosa Airlines
+SCQ, BCN, 154, 103, Formosa Airlines
+SDR, BCN, 147, 79, Formosa Airlines
+SVQ, BCN, 304, 99, Formosa Airlines
+SVQ, BIO, 196, 103, Formosa Airlines
+SVQ, LCG, 279, 92, Formosa Airlines
+SVQ, LPA, 230, 142, Formosa Airlines
+SVQ, OVD, 196, 102, Formosa Airlines
+SVQ, PMI, 317, 86, Formosa Airlines
+SVQ, TFN, 268, 129, Formosa Airlines
+TFN, AGP, 421, 171, Formosa Airlines
+TFN, BCN, 489, 214, Formosa Airlines
+TFN, BIO, 367, 157, Formosa Airlines
+TFN, SVQ, 299, 163, Formosa Airlines
+TFS, BCN, 398, 280, Formosa Airlines
+VGO, BCN, 232, 104, Formosa Airlines
+VLC, IBZ, 82, 41, Formosa Airlines
+VLL, BCN, 170, 87, Formosa Airlines
+XRY, BCN, 269, 84, Formosa Airlines
+AGP, MLN, 86, 47, Maastricht Airlines
+MLN, AGP, 172, 43, Maastricht Airlines
