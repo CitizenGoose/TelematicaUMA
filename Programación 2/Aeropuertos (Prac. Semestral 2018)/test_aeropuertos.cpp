@@ -3,8 +3,7 @@
  *
  * Programa principal de prueba del módulo aeropuertos
  *
- * Alumno:
- * Fecha:
+ * Alumno: Juan Carlos Mesa Ciruelo
  *****************************************************************************/
 
 #include "aeropuerto.hpp"
