@@ -3,8 +3,7 @@
  *
  * Programa principal de prueba del módulo Rutas.
  *
- * Alumno:
- * Fecha:
+ * Alumno: Juan Carlos Mesa Ciruelo
  *****************************************************************************/
 
 #include "ruta.hpp"
