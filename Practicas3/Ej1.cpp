@@ -8,7 +8,7 @@ int main(){
 	cout << "int; ";
 
 	cin >> n;
-	if(n == 0){
+	if(n == 0 || n == 1){
 		isPrime = false;
 	}
 	else{
