@@ -1,2 +1,4 @@
-//Ahora en un momento lo subo
+/*
+Ahora en un momento lo subo
 -Tomas
+*/
