@@ -1,0 +1,73 @@
+algoritmos de ordenacion
+
+// ordenacion por insercion//////////////
+
+void ordenacionPorInsercion(TLista &lista){
+    TElemento aux;
+    unsigned hueco;
+
+    for(unsigned p = 1; p < lista.nElementos; p++){
+        aux = lista.datos[p];
+        hueco = buscarPos(lista, aux, p-1);
+        abrirHueco(lista, hueco, p);
+        lista.datos[hueco] = aux;
+    }
+}
+
+unsigned buscarPos(const TLista &lista, const TElemento &valor, unsigned limite){
+    unsigned p = 0;
+    while((p <= limite) && (lista.datos[p] < valor)){
+        p++;
+    }
+    return p;
+}
+
+void abrirHueco(TLista &lista, unsigned hueco, unsigned limite){
+    for(unsigned p = limite; p > hueco; p--){
+        lista.datos[p] = lista.datos[p-1];
+    }
+}
+
+
+
+// ordenacion por seleccion////////////////////
+
+void ordenacionPorSeleccion(TLista &lista){
+    for(unsigned i = 0; i < lista.nElementos; i++){
+        unsigned pMenor = i;
+        for(unsigned int j = i + 1; j < lista.nElementos; j++){
+            if(lista.datos[j] < lista.datos[pMenor]){
+                pMenor = j;
+            }
+        }
+        intercambia(lista.datos[pMenor], lista.datos[i]);
+    }
+}
+
+//ordenacion por intercambio/////////////////
+
+void ordenacionPorIntercambio(TLista &lista){
+    bool hayIntercambio;
+    unsigned i;
+
+    hayIntercambio = true;
+    while((i < lista.nElementos) && hayIntercambio){
+        hayIntercambio = false;
+
+        for(unsigned p = 1; p < lista.nElementos - i; p++){
+            if(lista.datos[p-1] > lista.datos[p]){
+                hayIntercambio = true;
+                intercambia(lista.datos[p-1], lista.datos[p]);
+            }
+        }
+
+        i++;
+    }
+}
+
+void intercambia(TElemento &e1, TElemento &e2){
+    TElemento aux;
+    aux = e1;
+    e1 = e2;
+    e2 = aux;
+}
