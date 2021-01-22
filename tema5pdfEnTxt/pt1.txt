@@ -1,0 +1,46 @@
+const unsigned TMAX = 100;
+typedef TElemento TVector[TMAX];
+struct TLista{
+	unsigned nElementos;
+	TVector datos;
+};
+
+//busqueda secuencial///////////////////
+/*
+no se sabe el orden
+peor de los casos: pasa por todos los elementos
+*/
+
+bool buscarSec(const TLista &lista, const TElemento &valor){
+	unsigned pos = 0;
+	while((pos < lista.nElementos)&&(lista.datos[pos] != valor)){
+		pos++;
+	}
+	
+	return (pos < lista.nElementos);
+}
+
+//busqueda binaria/////////////////////
+/*
+se sabe el orden
+sirve para buscar desde un extremo u otro
+*/
+
+bool buscarBin(const TLista &lista, const TElemento &valor){
+	unsigned izq, der, med;
+	izq = 0;
+	der = lista.nElementos-1;
+
+	med = (izq + der)/2;
+	while((izq < der) && (lista.datos[med] != valor)){
+		if(lista.datos[med] < valor){
+			izq = med + 1;
+		} else {
+			der = med - 1;
+		}
+		med = (izq + der) / 2;
+	}
+
+	return (lista.datos[med] == valor);
+}
+
